@@ -7,13 +7,15 @@ html {
   font-family: "Montserrat", sans-serif;
 }
 body {
-  background: #eee;
+  background: #000;
+  color: #fff;
   background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
   padding: 0 16px;
 }
 
 header {
-  background-color: #f5ba13;
+  background: #000;
+  border-bottom: 1px solid rgb(245, 186, 19);
   margin: auto -16px;
   padding: 16px 32px;
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
