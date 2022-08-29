@@ -11,6 +11,7 @@ body {
   color: #fff;
   background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
   padding: 0 16px;
+  overflow: hidden;
 }
 
 header {
